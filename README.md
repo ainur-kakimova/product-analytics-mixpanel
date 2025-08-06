@@ -1,20 +1,20 @@
-# 📊 Mixpanel Product Analytics Case Study
+# Mixpanel Product Analytics Case Study
 
 This case study showcases core product analytics skills using **Mixpanel**, based on an e-commerce simulation dataset.  
 It includes funnel analysis, retention tracking, and flow visualization to understand user behavior and optimize the purchase journey.
 
 ---
 
-## 🔧 Tools Used
+## Tools Used
 - **Mixpanel** (Funnel, Retention, and Flow reports)
 - Sample dataset (E-commerce product interaction)
 - GitHub for documentation and sharing
 
 ---
 
-## 📁 Reports Included
+## Reports Included
 
-### 1. 🪝 Product Purchase Funnel
+### 1. Product Purchase Funnel
 
 ![Funnel Report](Product%20purchase%20steps%20funnel.png)
 
@@ -30,7 +30,7 @@ This funnel tracks users through the key purchase steps:
 
 ---
 
-## 2. 🔁 Retention Report – Weekly Retention Over 4 Weeks
+## 2. Retention Report – Weekly Retention Over 4 Weeks
 
 ![Retention Report](Product%20purchase%20retention.png)
 
@@ -46,7 +46,7 @@ This report shows how many users returned to perform a target event over a 4-wee
 
 ---
 
-## 3. 🔄 Product Purchase Flow
+## 3. Product Purchase Flow
 
 ![Flow Report](Product%20purchase%20flow.png)
 
@@ -63,7 +63,7 @@ The flow chart maps the **actual paths** users take after interacting with a pro
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 - Understand where users drop off in the purchase funnel
 - Evaluate long-term user retention trends
@@ -75,7 +75,7 @@ The flow chart maps the **actual paths** users take after interacting with a pro
 ## 👩‍💻 Author
 
 **Ainur Kakimova**  
-[LinkedIn](https://www.linkedin.com/in/ainur-kakimova) • [GitHub](https://github.com/ainur-kakimova)
+[GitHub](https://github.com/ainur-kakimova)
 
 ---
 
